@@ -1,5 +1,5 @@
 ## Lien vers l'application Streamlit
-[Lien vers l'application Streamlit](https://cine-creuse-projet-scolaire.streamlit.app/)
+[Lien cine-creuse-projet-2-Wild-code-School](https://cine-creuse-projet-scolaire.streamlit.app/)
 
 # Projet de Recommandation de Films pour un Cinéma en Perte de Vitesse
 
