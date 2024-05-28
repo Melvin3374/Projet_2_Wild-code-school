@@ -36,7 +36,7 @@ Notre application Streamlit est divisée en plusieurs pages, accessibles via un 
   - Axes d'amélioration : Recommandations pour l'amélioration de l'expérience utilisateur.
 
 ## Lien vers l'application Streamlit
-[Intégrer ici le lien vers votre application Streamlit](https://cine-creuse-projet-scolaire.streamlit.app/)
+[Lien vers l'application Streamlit](https://cine-creuse-projet-scolaire.streamlit.app/)
 
 ## Technologies Utilisées
   - Pandas : Pour la manipulation et l'analyse des données.
