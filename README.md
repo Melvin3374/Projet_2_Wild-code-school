@@ -1,3 +1,6 @@
+## Lien vers l'application Streamlit
+[Lien vers l'application Streamlit](https://cine-creuse-projet-scolaire.streamlit.app/)
+
 # Projet de Recommandation de Films pour un Cinéma en Perte de Vitesse
 
 ## Introduction
@@ -34,9 +37,6 @@ Notre application Streamlit est divisée en plusieurs pages, accessibles via un 
   - Trouvez votre film : Interface permettant aux utilisateurs de rechercher des recommandations de films par ,
     ou bien par filtrage en entrant un nom d'acteur, ou un nom de réalisateur ou bien en filtrant par genre.
   - Axes d'amélioration : Recommandations pour l'amélioration de l'expérience utilisateur.
-
-## Lien vers l'application Streamlit
-[Lien vers l'application Streamlit](https://cine-creuse-projet-scolaire.streamlit.app/)
 
 ## Technologies Utilisées
   - Pandas : Pour la manipulation et l'analyse des données.
