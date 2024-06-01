@@ -34,8 +34,8 @@ Nous avons utilisé plusieurs outils et techniques tout au long du projet :
 Notre application Streamlit est divisée en plusieurs pages, accessibles via un menu latéral :
   - Page d'accueil : Présentation de l'équipe et du projet.
   - Graphiques : Visualisations des KPIs et des insights tirés de l'analyse des données.
-  - Trouvez votre film : Interface permettant aux utilisateurs de rechercher des recommandations de films par ,
-    ou bien par filtrage en entrant un nom d'acteur, ou un nom de réalisateur ou bien en filtrant par genre.
+  - Trouvez votre film : Interface permettant aux utilisateurs de rechercher des recommandations de films par nom,
+    ou bien par filtrage en entrant un nom d'acteur, ou un nom de réalisateur ou en filtrant par genre.
   - Axes d'amélioration : Recommandations pour l'amélioration de l'expérience utilisateur.
 
 ## Technologies Utilisées
